@@ -1,0 +1,51 @@
+# Build outputs
+bin/
+obj/
+
+# Visual Studio / Rider / VSCode
+.vs/
+.vscode/
+.idea/
+*.suo
+*.user
+*.sln.docstates
+*.DotSettings.user
+*.sln.iml
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+project.lock.json
+
+# Local appsettings and secrets
+appsettings.Development.json
+appsettings.*.Local.json
+appsettings.*.secret.json
+secrets.json
+.secrets/
+
+# Publish outputs
+publish/
+*.publishsettings
+*/publish/
+
+# Logs and Test Results
+*.log
+logs/
+TestResults/
+
+# Coverage
+coverage/
+
+# Docker overrides
+docker-compose.override.yml
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# OS files
+*.DS_Store
+Thumbs.db
