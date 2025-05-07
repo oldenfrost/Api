@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "Api.Controllers.ProductoController",
+    "Method": "GetProductAsync",
+    "RelativePath": "api/Producto",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
